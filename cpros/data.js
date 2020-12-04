@@ -19,5 +19,8 @@ module.exports = () => {
     business_name: faker.company.companyName(),
     type: "Technician",
     address: randomAddress.getUniqueAddress(),
+    details: {
+      description: faker.lorem.paragraph(),
+    },
   };
 };
