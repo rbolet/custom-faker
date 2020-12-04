@@ -5,4 +5,7 @@ let data = [];
 for (let i = 0; i < 100; i++) {
   data.push(randomData());
 }
-console.log(data);
+
+fs.writeFile(__dirname + "/results/cpros.json", JSON.stringify(data), function () {
+  console.log("bigDataSet generated successfully!");
+});
