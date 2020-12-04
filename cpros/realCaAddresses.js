@@ -1,45 +1,25 @@
-[
-  `7928 Summit StreetSan Marcos, CA 92069`,
-  `49 Columbia St.
-Chino Hills, CA 91709`,
-  `9 Sierra St.
-Van Nuys, CA 91406`,
-  `5 Ridgeview Street
-Long Beach, CA 90805`,
-  `735 Wellington St.
-North Hills, CA 91343`,
-  `9843A Depot Court
-El Cajon, CA 92020`,
-  `32 Baker St.
-Riverside, CA 92509`,
-  `139 Poplar Lane
-Vacaville, CA 95687`,
-  `74 Plumb Branch Drive
-Vista, CA 92083`,
-  `8315 Sherman Ave.
-Los Angeles, CA 90003`,
-  `39 Leeton Ridge St.
-Colton, CA 92324`,
-  `805 Oakwood Ave.
-Pico Rivera, CA 90660`,
-  `9176 Ramblewood Avenue
-Fairfield, CA 94533`,
-  `48 NE. High Drive
-Chula Vista, CA 91911`,
-  `70 West Ave.
-Costa Mesa, CA 92627`,
-  `17 Arrowhead Street
-Bakersfield, CA 93306`,
-  `7066 Overlook Drive
-Bakersfield, CA 93307`,
-  `792 East Pennsylvania Court
-Laguna Niguel, CA 92677`,
-  `7 N. Front Street
-Compton, CA 90221`,
-  `28 Ryan St.
-Chino, CA 91710`,
-  `7603 Ramblewood St.
-San Jose, CA 95122`,
+exports.all = [
+  `7928 Summit Street San Marcos, CA 92069`,
+  `49 Columbia St. Chino Hills, CA 91709`,
+  `9 Sierra St. Van Nuys, CA 91406`,
+  `5 Ridgeview Street Long Beach, CA 90805`,
+  `735 Wellington St. North Hills, CA 91343`,
+  `9843A Depot Court El Cajon, CA 92020`,
+  `32 Baker St. Riverside, CA 92509`,
+  `139 Poplar Lane Vacaville, CA 95687`,
+  `74 Plumb Branch Drive Vista, CA 92083`,
+  `8315 Sherman Ave. Los Angeles, CA 90003`,
+  `39 Leeton Ridge St. Colton, CA 92324`,
+  `805 Oakwood Ave. Pico Rivera, CA 90660`,
+  `9176 Ramblewood Avenue Fairfield, CA 94533`,
+  `48 NE. High Drive Chula Vista, CA 91911`,
+  `70 West Ave. Costa Mesa, CA 92627`,
+  `17 Arrowhead Street Bakersfield, CA 93306`,
+  `7066 Overlook Drive Bakersfield, CA 93307`,
+  `792 East Pennsylvania Court Laguna Niguel, CA 92677`,
+  `7 N. Front Street Compton, CA 90221`,
+  `28 Ryan St. Chino, CA 91710`,
+  `7603 Ramblewood St. San Jose, CA 95122`,
   `7334 South Griffin St.
 Anaheim, CA 92804`,
   `511C Hill Dr.
