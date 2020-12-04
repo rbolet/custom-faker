@@ -1,3 +1,8 @@
 const fs = require("fs");
-const faker = require("faker/locale/en_US");
-console.log(faker.name.findName());
+const randomData = require("./cpros/data");
+
+let data = [];
+for (let i = 0; i < 100; i++) {
+  data.push(randomData());
+}
+console.log(data);

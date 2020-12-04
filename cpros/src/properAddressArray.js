@@ -27,5 +27,5 @@ for (let i = 0; i < formatted.length; i++) {
   formatted[i] = [...split, { street: `${streetNum} ${streetName}`, city, state, zip }];
   formatted[i] = formatted[i].pop();
 }
-console.log(formatted);
+
 module.exports = formatted;
