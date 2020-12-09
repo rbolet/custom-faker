@@ -1,1 +1,1402 @@
-[{"business_name":"Abshire - Herzog","type":"Technician","address":{"street":"217 ","city":"Hawthorne Rd. Anaheim","state":"CA","zip":"92805"},"geolocation":{"latitude":33.835665,"longitude":-117.90807},"details":{"description":"Laboriosam accusamus voluptatem qui quas molestias corrupti numquam. Qui voluptatum mollitia debitis. Beatae qui itaque sed autem. Eum enim sequi excepturi."}},{"business_name":"Stiedemann - Emmerich","type":"Technician","address":{"street":"9843A Depot Court","city":"El Cajon","state":"CA","zip":"92020"},"geolocation":{"latitude":32.7991,"longitude":-116.97334},"details":{"description":"Eum quam dolore quia culpa maxime laborum labore quia. Sit voluptatem ut consequatur non rem. Quisquam totam maxime ex mollitia quia. Non rerum eius voluptatem qui velit cum ut animi."}},{"business_name":"Kulas - Oberbrunner","type":"Technician","address":{"street":"8508 Highland Court","city":"Sylmar","state":"CA","zip":"91342"},"geolocation":{"latitude":34.307877,"longitude":-118.42904},"details":{"description":"Et est possimus. Saepe iure vero aut aut vel aliquam et explicabo occaecati. Quae voluptates aut amet rem quasi commodi molestias atque."}},{"business_name":"Hermiston and Sons","type":"Technician","address":{"street":"996 South Canterbury St.","city":"Long Beach","state":"CA","zip":"90813"},"geolocation":{"latitude":33.781011,"longitude":-118.19197},"details":{"description":"Excepturi et velit velit. Ipsum quia et mollitia ex. Accusamus ut voluptatem sed ea sit nisi eveniet inventore."}},{"business_name":"Larkin Inc","type":"Technician","address":{"street":"48 Overlook St.","city":"San Jose","state":"CA","zip":"95127"},"geolocation":{"latitude":37.369473,"longitude":-121.82077},"details":{"description":"Labore ipsam qui rem repellat aperiam est. Molestiae aut dolor voluptates nemo porro id voluptatem. Et nobis occaecati et voluptas fugit optio est eos officia. Impedit omnis error nobis perferendis unde labore nisi praesentium. Et quo quaerat sed esse aut mollitia deserunt."}},{"business_name":"Lesch - Olson","type":"Technician","address":{"street":"9534 ","city":"North Manhattan Road Los Angeles","state":"CA","zip":"90006"},"geolocation":{"latitude":34.048351,"longitude":-118.2943},"details":{"description":"Aut voluptate hic dolorem explicabo dolores rerum. Necessitatibus qui voluptate illum sequi dolor non soluta. Blanditiis molestiae repudiandae commodi totam blanditiis. Esse ipsa sint officia. Adipisci perspiciatis recusandae temporibus."}},{"business_name":"Turner, Oberbrunner and Jenkins","type":"Technician","address":{"street":"735 Wellington St.","city":"North Hills","state":"CA","zip":"91343"},"geolocation":{"latitude":34.239503,"longitude":-118.48224},"details":{"description":"Facere dolores ducimus nemo quam laboriosam consectetur. Architecto animi qui itaque omnis. Ab repudiandae eveniet magnam quibusdam fugiat molestias."}},{"business_name":"Lindgren - Koelpin","type":"Technician","address":{"street":"9321 NW. Hartford Street","city":"Santa Ana","state":"CA","zip":"92704"},"geolocation":{"latitude":33.724167,"longitude":-117.90623},"details":{"description":"Veritatis est hic. Repudiandae quasi tempora reprehenderit. Laboriosam et sequi nobis aperiam unde praesentium. Ab natus in et nostrum in laudantium non id."}},{"business_name":"Stehr, Sanford and Morar","type":"Technician","address":{"street":"49 Columbia St.","city":"Chino Hills","state":"CA","zip":"91709"},"geolocation":{"latitude":33.975267,"longitude":-117.72305},"details":{"description":"Nam architecto accusamus neque consequatur. Laudantium assumenda accusamus vel voluptatem. Quos et eligendi praesentium. Ea beatae quis rerum harum ad sint. Odit eos rem quaerat dolorem odio."}},{"business_name":"Cruickshank Group","type":"Technician","address":{"street":"379 Young Ave.","city":"Pittsburg","state":"CA","zip":"94565"},"geolocation":{"latitude":38.017917,"longitude":-121.90502},"details":{"description":"Et quia nihil aut ipsa reprehenderit excepturi excepturi. Error et cupiditate eveniet iusto voluptas. Voluptatem perferendis dolores enim in voluptatem corrupti enim aut incidunt. Aliquid dignissimos rerum sed officia ad."}}]
+[
+  {
+    "business_name": "Schinner, Labadie and Jenkins",
+    "type": "Technician",
+    "address": {
+      "street": "8000 Sunset Ave.",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95828"
+    },
+    "geolocation": { "latitude": 38.484747, "longitude": -121.4024 },
+    "details": {
+      "description": "Debitis et expedita vitae fugit exercitationem dolor unde est. Qui quis sed ea voluptatem neque excepturi nulla. Sit libero qui."
+    }
+  },
+  {
+    "business_name": "Schiller, Dickinson and Streich",
+    "type": "Technician",
+    "address": {
+      "street": "39 Leeton Ridge St.",
+      "city": "Colton",
+      "state": "CA",
+      "zip": "92324"
+    },
+    "geolocation": { "latitude": 34.061931, "longitude": -117.31995 },
+    "details": {
+      "description": "Aut ea quia aspernatur voluptatem qui doloremque. Debitis accusantium natus deleniti autem asperiores beatae. Ea omnis perspiciatis natus repellendus quasi. Occaecati non aut voluptatem. Veritatis consequuntur ratione ab necessitatibus reprehenderit id voluptas eos."
+    }
+  },
+  {
+    "business_name": "Fisher - Prosacco",
+    "type": "Technician",
+    "address": {
+      "street": "70 South Van Dyke St.",
+      "city": "National City",
+      "state": "CA",
+      "zip": "91950"
+    },
+    "geolocation": { "latitude": 32.670903, "longitude": -117.09272 },
+    "details": {
+      "description": "Nam voluptas deleniti omnis laborum est ea maxime aspernatur. Et et ea aut non alias veniam. Rerum temporibus porro. Ad voluptatem laudantium quia sed qui quae."
+    }
+  },
+  {
+    "business_name": "Pagac, Hilll and Stroman",
+    "type": "Technician",
+    "address": {
+      "street": "88 Dogwood Ave.",
+      "city": "Westminster",
+      "state": "CA",
+      "zip": "92683"
+    },
+    "geolocation": { "latitude": 33.751418, "longitude": -117.99392 },
+    "details": {
+      "description": "Voluptas vel odit eum est voluptatem omnis commodi qui in. Aut possimus sit ex ut. Rerum et suscipit qui est modi sint consequatur aut voluptatem. Doloremque voluptatem aspernatur modi ipsum ex nesciunt accusamus modi ut. Est asperiores nobis occaecati dolorem voluptatem praesentium repudiandae."
+    }
+  },
+  {
+    "business_name": "D'Amore, Will and Kohler",
+    "type": "Technician",
+    "address": {
+      "street": "74 Plumb Branch Drive",
+      "city": "Vista",
+      "state": "CA",
+      "zip": "92083"
+    },
+    "geolocation": { "latitude": 33.179587, "longitude": -117.24461 },
+    "details": {
+      "description": "Qui nihil sunt. In ut consequatur et quis distinctio. Eaque dolore culpa quia in autem."
+    }
+  },
+  {
+    "business_name": "Rohan - Abernathy",
+    "type": "Technician",
+    "address": {
+      "street": "8756 St Margarets Drive",
+      "city": "Anaheim",
+      "state": "CA",
+      "zip": "92801"
+    },
+    "geolocation": { "latitude": 33.844814, "longitude": -117.95381 },
+    "details": {
+      "description": "Et autem molestias voluptates. Ut officia modi neque ea dicta. Possimus et explicabo facere velit ipsa dolores."
+    }
+  },
+  {
+    "business_name": "Kub - Pfannerstill",
+    "type": "Technician",
+    "address": {
+      "street": "48 Overlook St.",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95127"
+    },
+    "geolocation": { "latitude": 37.369473, "longitude": -121.82077 },
+    "details": {
+      "description": "Ut voluptatem optio sapiente veniam esse magnam eius aut eaque. Architecto est id similique sunt labore fugit alias. Repellendus eos consequatur impedit dicta quos nihil. Est possimus placeat earum culpa dolor aut quia. Ipsam ex nihil et quia veniam."
+    }
+  },
+  {
+    "business_name": "Veum - Satterfield",
+    "type": "Technician",
+    "address": {
+      "street": "4 Cottage St.",
+      "city": "South San Francisco",
+      "state": "CA",
+      "zip": "94080"
+    },
+    "geolocation": { "latitude": 37.652857, "longitude": -122.4301 },
+    "details": {
+      "description": "Fugiat velit quisquam eveniet nulla ut non eos. Impedit omnis sit consequatur velit laudantium. Similique velit quam enim itaque natus doloremque dolores recusandae qui. Dolor accusamus totam et. Aut eum est ipsam iste omnis et animi nemo. Veritatis id vel sed pariatur."
+    }
+  },
+  {
+    "business_name": "Lakin - Fisher",
+    "type": "Technician",
+    "address": {
+      "street": "88 Livingston Street",
+      "city": "Santa Ana",
+      "state": "CA",
+      "zip": "92701"
+    },
+    "geolocation": { "latitude": 33.747017, "longitude": -117.86248 },
+    "details": {
+      "description": "Quisquam ut nobis eligendi aspernatur ad et ducimus voluptates. Error laudantium explicabo ducimus rerum iure eius. Sequi ullam et fugit dolore unde."
+    }
+  },
+  {
+    "business_name": "VonRueden - Kozey",
+    "type": "Technician",
+    "address": {
+      "street": "485 Broad Street",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95112"
+    },
+    "geolocation": { "latitude": 37.348541, "longitude": -121.88627 },
+    "details": {
+      "description": "Alias ex ipsa iusto. Voluptatem deleniti sed earum impedit aut officiis. Vitae officia amet quis voluptates. Quod vitae laborum rerum. Itaque voluptas necessitatibus quo eum. Ipsum nulla qui nulla pariatur vel."
+    }
+  },
+  {
+    "business_name": "Sauer, Boyle and Cruickshank",
+    "type": "Technician",
+    "address": {
+      "street": "9321 NW. Hartford Street",
+      "city": "Santa Ana",
+      "state": "CA",
+      "zip": "92704"
+    },
+    "geolocation": { "latitude": 33.724167, "longitude": -117.90623 },
+    "details": {
+      "description": "Aut iure cum repudiandae dolores voluptate dignissimos rerum. Voluptatem eveniet qui fugit ipsum accusantium blanditiis. Distinctio qui voluptatem omnis aut reprehenderit fugit rerum ad."
+    }
+  },
+  {
+    "business_name": "O'Conner - Hirthe",
+    "type": "Technician",
+    "address": {
+      "street": "918 Sussex Ave.",
+      "city": "Vallejo",
+      "state": "CA",
+      "zip": "94591"
+    },
+    "geolocation": { "latitude": 38.099119, "longitude": -122.21035 },
+    "details": {
+      "description": "Neque dolore itaque cupiditate eos perferendis dignissimos consequuntur. Deleniti animi repellat corporis esse voluptatem incidunt. Eos recusandae saepe est beatae et et veritatis. Similique quia consequatur illo quia aut. Sit cum inventore sed placeat vitae possimus. Rerum in nulla hic qui."
+    }
+  },
+  {
+    "business_name": "Senger, Walsh and Bartoletti",
+    "type": "Technician",
+    "address": {
+      "street": "386 Hamilton Dr.",
+      "city": "Oxnard",
+      "state": "CA",
+      "zip": "93030"
+    },
+    "geolocation": { "latitude": 34.21707, "longitude": -119.1769 },
+    "details": {
+      "description": "Suscipit dolor eligendi animi maxime non a cupiditate. Autem quas quo pariatur odio explicabo nisi asperiores dicta. Omnis sunt animi sit rerum est blanditiis deleniti iure. Distinctio sunt omnis sed. Exercitationem tenetur nihil voluptas nobis dicta aliquam illum fuga. Labore voluptates accusantium libero."
+    }
+  },
+  {
+    "business_name": "McKenzie Inc",
+    "type": "Technician",
+    "address": {
+      "street": "8642 Cedar Ave.",
+      "city": "Santa Ana",
+      "state": "CA",
+      "zip": "92703"
+    },
+    "geolocation": { "latitude": 33.747067, "longitude": -117.90433 },
+    "details": {
+      "description": "Quis omnis nostrum laudantium doloremque et voluptatem dignissimos voluptatem pariatur. Accusamus voluptas nemo et corrupti natus et. Recusandae dolores rem laborum. Fugiat facilis tempore neque quia quae doloribus odio. Dolorum magnam asperiores qui eveniet aut recusandae molestias temporibus. Doloremque eveniet debitis est quibusdam qui rerum alias nam."
+    }
+  },
+  {
+    "business_name": "Marvin - Heaney",
+    "type": "Technician",
+    "address": {
+      "street": "689 Liberty St.",
+      "city": "La Puente",
+      "state": "CA",
+      "zip": "91744"
+    },
+    "geolocation": { "latitude": 34.029561, "longitude": -117.93975 },
+    "details": {
+      "description": "Qui dolorem sunt fugit sunt distinctio nesciunt cupiditate eius. Molestias ut adipisci in eos et iure et debitis nulla. Illo omnis incidunt."
+    }
+  },
+  {
+    "business_name": "Keebler - Smitham",
+    "type": "Technician",
+    "address": {
+      "street": "8473 Mechanic Street",
+      "city": "Canyon Country",
+      "state": "CA",
+      "zip": "91351"
+    },
+    "geolocation": { "latitude": 34.424794, "longitude": -118.44513 },
+    "details": {
+      "description": "Minus reiciendis aut sit blanditiis repellendus tempore. Accusantium sit illo sed numquam ipsum pariatur deserunt. Eaque doloremque tempore non ea autem. Est inventore itaque consequatur quisquam nam est. Voluptatem eius ex dicta hic."
+    }
+  },
+  {
+    "business_name": "Schaden, Hettinger and Fisher",
+    "type": "Technician",
+    "address": {
+      "street": "9176 Ramblewood Avenue",
+      "city": "Fairfield",
+      "state": "CA",
+      "zip": "94533"
+    },
+    "geolocation": { "latitude": 38.269582, "longitude": -122.03701 },
+    "details": {
+      "description": "Quae labore quia quia. Sunt tempora voluptatem et velit odit. Qui illo omnis. Sed dolores dolor dolores quidem omnis."
+    }
+  },
+  {
+    "business_name": "O'Kon Group",
+    "type": "Technician",
+    "address": {
+      "street": "17 Arrowhead Street",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93306"
+    },
+    "geolocation": { "latitude": 35.396411, "longitude": -118.92268 },
+    "details": {
+      "description": "Quidem minus voluptate aliquam eius inventore quis a dolor. Sunt aperiam et delectus quam. Culpa necessitatibus deserunt. Ut est et. Ut delectus quod cumque. Assumenda a aliquam voluptates et vitae."
+    }
+  },
+  {
+    "business_name": "Herman - Rutherford",
+    "type": "Technician",
+    "address": {
+      "street": "47 Glenholme Street",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92115"
+    },
+    "geolocation": { "latitude": 32.7603, "longitude": -117.07031 },
+    "details": {
+      "description": "Quasi maiores consectetur cum. Dolores atque est voluptatem sunt suscipit dolor. Quia dicta error. Ut in deserunt non molestiae."
+    }
+  },
+  {
+    "business_name": "Bednar - Hagenes",
+    "type": "Technician",
+    "address": {
+      "street": "744 Avenue",
+      "city": "Tulare",
+      "state": "CA",
+      "zip": "93274"
+    },
+    "geolocation": { "latitude": 36.201451, "longitude": -119.34994 },
+    "details": {
+      "description": "Error ut ipsum quas ea incidunt. Totam quidem consequuntur quam voluptatem ratione sint. Aut explicabo quod voluptas sit."
+    }
+  },
+  {
+    "business_name": "Kemmer Inc",
+    "type": "Technician",
+    "address": {
+      "street": "74 Oklahoma Street",
+      "city": "North Hollywood",
+      "state": "CA",
+      "zip": "91605"
+    },
+    "geolocation": { "latitude": 34.208142, "longitude": -118.4011 },
+    "details": {
+      "description": "Occaecati doloribus repellat sit voluptatem nemo pariatur aut vel commodi. Qui voluptatem et aut autem ipsa ut alias consequatur. Repellat voluptates sit qui velit eius et hic sunt. Sunt temporibus consequuntur et harum quia voluptas."
+    }
+  },
+  {
+    "business_name": "Wilderman, Littel and Prohaska",
+    "type": "Technician",
+    "address": {
+      "street": "792 East Pennsylvania Court",
+      "city": "Laguna Niguel",
+      "state": "CA",
+      "zip": "92677"
+    },
+    "geolocation": { "latitude": 33.531938, "longitude": -117.7025 },
+    "details": {
+      "description": "Omnis mollitia omnis voluptatem rerum nobis. Deleniti ut autem enim. Sunt sunt laboriosam omnis dolorum voluptas corporis. Voluptas est modi veritatis alias cumque et quo. Nostrum est eos rerum ut dolore. Omnis facilis asperiores odit cupiditate aliquam."
+    }
+  },
+  {
+    "business_name": "Douglas Group",
+    "type": "Technician",
+    "address": {
+      "street": "9 Sierra St.",
+      "city": "Van Nuys",
+      "state": "CA",
+      "zip": "91406"
+    },
+    "geolocation": { "latitude": 34.201491, "longitude": -118.49376 },
+    "details": {
+      "description": "Quibusdam aut doloribus sint ducimus. Ut aut perspiciatis illo. Quo quos expedita corporis est rem. Aut odit dolores laudantium aperiam."
+    }
+  },
+  {
+    "business_name": "Renner and Sons",
+    "type": "Technician",
+    "address": {
+      "street": "8508 Highland Court",
+      "city": "Sylmar",
+      "state": "CA",
+      "zip": "91342"
+    },
+    "geolocation": { "latitude": 34.307877, "longitude": -118.42904 },
+    "details": {
+      "description": "Voluptatem in harum sint culpa repellendus vero eum vero. Nostrum eos ullam quaerat. Culpa sunt eum nulla quam soluta aliquid aut saepe et. Mollitia quam consequatur assumenda. Dolorem aliquam magnam."
+    }
+  },
+  {
+    "business_name": "Crist, Towne and O'Keefe",
+    "type": "Technician",
+    "address": {
+      "street": "8 W. Sage Court",
+      "city": "Folsom",
+      "state": "CA",
+      "zip": "95630"
+    },
+    "geolocation": { "latitude": 38.672127, "longitude": -121.15783 },
+    "details": {
+      "description": "Iste voluptatem voluptatem. Ab ad nemo esse dicta eaque eius deleniti exercitationem. Dolore qui expedita sed. Et sunt dolore velit. Consequatur aliquam officia expedita velit."
+    }
+  },
+  {
+    "business_name": "Moore - McDermott",
+    "type": "Technician",
+    "address": {
+      "street": "9107 ",
+      "city": "Randall Mill Circle Carson",
+      "state": "CA",
+      "zip": "90745"
+    },
+    "geolocation": { "latitude": 33.823765, "longitude": -118.2668 },
+    "details": {
+      "description": "Sit voluptatibus reprehenderit. Ipsam quia iusto. Neque possimus dolor aspernatur explicabo beatae possimus. Molestiae doloribus sed qui blanditiis. Sed non eius natus et quia sed sed ipsam. Dolores eos quaerat rerum."
+    }
+  },
+  {
+    "business_name": "Thiel LLC",
+    "type": "Technician",
+    "address": {
+      "street": "18 Country Street",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90026"
+    },
+    "geolocation": { "latitude": 34.07851, "longitude": -118.26596 },
+    "details": {
+      "description": "Omnis nostrum nisi. Voluptatem aperiam est cumque perferendis doloribus omnis facilis aut. Voluptates eligendi earum beatae explicabo explicabo consequuntur aliquid. Eos culpa possimus tenetur qui soluta aut cum qui. Minus ut vel quia velit. Accusantium aperiam praesentium ut."
+    }
+  },
+  {
+    "business_name": "Batz, Wisozk and Ebert",
+    "type": "Technician",
+    "address": {
+      "street": "735 Wellington St.",
+      "city": "North Hills",
+      "state": "CA",
+      "zip": "91343"
+    },
+    "geolocation": { "latitude": 34.239503, "longitude": -118.48224 },
+    "details": {
+      "description": "Architecto occaecati ut quia quis esse voluptas aspernatur eius. Reiciendis iusto omnis nesciunt est. Qui sed est aut atque voluptate inventore omnis."
+    }
+  },
+  {
+    "business_name": "Donnelly - Boyer",
+    "type": "Technician",
+    "address": {
+      "street": "8674 W. River St.",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95116"
+    },
+    "geolocation": { "latitude": 37.34964, "longitude": -121.8544 },
+    "details": {
+      "description": "Porro pariatur minus vel consequatur deserunt et qui tempora repellat. Quos dolor quasi distinctio sit distinctio id magni eius. Maxime ut quibusdam nostrum et provident."
+    }
+  },
+  {
+    "business_name": "D'Amore - Baumbach",
+    "type": "Technician",
+    "address": {
+      "street": "996 South Canterbury St.",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90813"
+    },
+    "geolocation": { "latitude": 33.781011, "longitude": -118.19197 },
+    "details": {
+      "description": "Sunt molestiae sequi eaque nobis natus sint praesentium. Quo fugiat omnis explicabo et nihil. Illum voluptates vitae quia autem aut. Ut facilis distinctio quae. Libero eos et eius ut ex excepturi architecto hic. Illum officia ipsa totam consequatur."
+    }
+  },
+  {
+    "business_name": "Gottlieb - Greenfelder",
+    "type": "Technician",
+    "address": {
+      "street": "89 West Hillside Dr.",
+      "city": "Fountain Valley",
+      "state": "CA",
+      "zip": "92708"
+    },
+    "geolocation": { "latitude": 33.708618, "longitude": -117.95629 },
+    "details": {
+      "description": "Asperiores corporis explicabo velit quia harum veritatis et omnis. Quaerat repellendus animi ipsum sint. Neque similique non libero vel eveniet expedita sint est illo. Autem dicta voluptates accusantium repellat. Aut tempora est quibusdam libero impedit fugit beatae. Repellat vel occaecati magni."
+    }
+  },
+  {
+    "business_name": "Boehm Inc",
+    "type": "Technician",
+    "address": {
+      "street": "655 William Dr.",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90022"
+    },
+    "geolocation": { "latitude": 34.023662, "longitude": -118.15581 },
+    "details": {
+      "description": "Adipisci et rerum sint natus dolores voluptatum laborum. Tempora quasi aliquid rerum. Aut in excepturi. Est et quo. Eum aut qui unde repudiandae quidem rem ut et sint."
+    }
+  },
+  {
+    "business_name": "MacGyver, O'Hara and Okuneva",
+    "type": "Technician",
+    "address": {
+      "street": "5 Ridgeview Street",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90805"
+    },
+    "geolocation": { "latitude": 33.865916, "longitude": -118.18362 },
+    "details": {
+      "description": "Labore ut voluptate consequatur eos excepturi. Veniam dolor autem maiores ipsam architecto voluptatem qui. Qui iure veniam exercitationem nihil placeat repellat itaque illo sint. Dolorem tenetur provident repellendus non. Neque modi veniam debitis qui."
+    }
+  },
+  {
+    "business_name": "Bergnaum Inc",
+    "type": "Technician",
+    "address": {
+      "street": "585 ",
+      "city": "East Wood Road Corona",
+      "state": "CA",
+      "zip": "92882"
+    },
+    "geolocation": { "latitude": 33.866555, "longitude": -117.59167 },
+    "details": {
+      "description": "Quos voluptas magnam fugiat et omnis. Facilis laborum maxime. Et veritatis velit quibusdam illo quia. Dolore ullam ratione dolores corporis quis commodi quibusdam quos repellendus. A illo aut est laudantium illum nostrum minima qui reprehenderit."
+    }
+  },
+  {
+    "business_name": "Halvorson, Jacobs and Cruickshank",
+    "type": "Technician",
+    "address": {
+      "street": "70 West Ave.",
+      "city": "Costa Mesa",
+      "state": "CA",
+      "zip": "92627"
+    },
+    "geolocation": { "latitude": 33.647028, "longitude": -117.91506 },
+    "details": {
+      "description": "Est nulla maiores et voluptatem quia dignissimos alias officiis eveniet. Amet vel quam. Culpa excepturi magni reprehenderit quia aut et quo temporibus repudiandae. Tempore veniam laudantium nihil aut."
+    }
+  },
+  {
+    "business_name": "Nienow, Walker and Halvorson",
+    "type": "Technician",
+    "address": {
+      "street": "6 ",
+      "city": "N. Border Lane Oakland",
+      "state": "CA",
+      "zip": "94601"
+    },
+    "geolocation": { "latitude": 37.776835, "longitude": -122.21792 },
+    "details": {
+      "description": "Rerum ut minus provident aliquam suscipit ullam veritatis dolor molestias. Minus odit velit enim rerum saepe et sapiente et. Dolores quia eius. Officiis quod a aut autem ab. Libero est sint est dolorum ut ad qui."
+    }
+  },
+  {
+    "business_name": "Kertzmann Inc",
+    "type": "Technician",
+    "address": {
+      "street": "97 Ocean Drive",
+      "city": "Lancaster",
+      "state": "CA",
+      "zip": "93535"
+    },
+    "geolocation": { "latitude": 34.691946, "longitude": -117.97756 },
+    "details": {
+      "description": "Sed harum maiores nostrum quod est eos odit molestiae. Eligendi accusantium doloribus molestias tempora. Libero sed hic soluta."
+    }
+  },
+  {
+    "business_name": "Effertz Group",
+    "type": "Technician",
+    "address": {
+      "street": "7603 Ramblewood St.",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95122"
+    },
+    "geolocation": { "latitude": 37.329641, "longitude": -121.83359 },
+    "details": {
+      "description": "Est quas assumenda dolores dolores eum. Veritatis amet sequi quod id ut architecto. Autem molestiae optio impedit tenetur ipsum dolores enim sint."
+    }
+  },
+  {
+    "business_name": "Franecki and Sons",
+    "type": "Technician",
+    "address": {
+      "street": "8756 SE. Smith Store Ave.",
+      "city": "Hesperia",
+      "state": "CA",
+      "zip": "92345"
+    },
+    "geolocation": { "latitude": 34.399992, "longitude": -117.33999 },
+    "details": {
+      "description": "Consectetur saepe aut et sint aut aliquid sit qui. Assumenda molestiae veritatis et sint cumque veritatis. Assumenda aut quia velit non omnis."
+    }
+  },
+  {
+    "business_name": "Heidenreich, Larkin and Gutkowski",
+    "type": "Technician",
+    "address": {
+      "street": "621 Durham Ave.",
+      "city": "San Pablo",
+      "state": "CA",
+      "zip": "94806"
+    },
+    "geolocation": { "latitude": 37.972623, "longitude": -122.33873 },
+    "details": {
+      "description": "Id autem animi inventore. Libero aspernatur error non voluptas dolores. At necessitatibus quibusdam corrupti quo magni rerum minima."
+    }
+  },
+  {
+    "business_name": "Will, Gorczany and Pollich",
+    "type": "Technician",
+    "address": {
+      "street": "18 Myers Ave.",
+      "city": "Chula Vista",
+      "state": "CA",
+      "zip": "91910"
+    },
+    "geolocation": { "latitude": 32.638654, "longitude": -117.06686 },
+    "details": {
+      "description": "Facere minima amet modi quia pariatur qui. Deleniti voluptates et aliquam eum. Et id quos iusto asperiores cupiditate et ut atque labore."
+    }
+  },
+  {
+    "business_name": "Buckridge, Buckridge and Dare",
+    "type": "Technician",
+    "address": {
+      "street": "28 Ryan St.",
+      "city": "Chino",
+      "state": "CA",
+      "zip": "91710"
+    },
+    "geolocation": { "latitude": 34.015963, "longitude": -117.68737 },
+    "details": {
+      "description": "Molestiae facere voluptatum quia qui quia doloribus. Praesentium laudantium cumque molestias. Non at voluptatibus odio temporibus culpa eligendi nobis. Tempora est facilis asperiores exercitationem. Id debitis eaque architecto sit."
+    }
+  },
+  {
+    "business_name": "Weissnat - Jacobs",
+    "type": "Technician",
+    "address": {
+      "street": "\"819 Sunset Dr.",
+      "city": "Reseda",
+      "state": "CA",
+      "zip": "91335"
+    },
+    "geolocation": { "latitude": 34.200104, "longitude": -118.54099 },
+    "details": {
+      "description": "At ea sed officiis vel molestiae. Perspiciatis asperiores aut repudiandae enim repellendus tempora. Incidunt rem nostrum perspiciatis dicta."
+    }
+  },
+  {
+    "business_name": "Bauch - Gottlieb",
+    "type": "Technician",
+    "address": {
+      "street": "7 ",
+      "city": "York Rd. Santa Ana",
+      "state": "CA",
+      "zip": "92707"
+    },
+    "geolocation": { "latitude": 33.719118, "longitude": -117.87143 },
+    "details": {
+      "description": "Non fuga maxime officiis eos veritatis itaque quos. Et quas consectetur deleniti quia. Illum aliquid inventore minus dolor amet rerum minus vitae quidem. Molestiae quasi nemo quibusdam officiis amet."
+    }
+  },
+  {
+    "business_name": "Harber Group",
+    "type": "Technician",
+    "address": {
+      "street": "8126 Fifth Ave.",
+      "city": "Hayward",
+      "state": "CA",
+      "zip": "94541"
+    },
+    "geolocation": { "latitude": 37.674431, "longitude": -122.08883 },
+    "details": {
+      "description": "Est itaque quo corrupti nesciunt sunt nobis ut. Quisquam animi similique totam similique. Iste ut commodi voluptates corporis et."
+    }
+  },
+  {
+    "business_name": "Gislason - Greenfelder",
+    "type": "Technician",
+    "address": {
+      "street": "8314 Griffin Avenue",
+      "city": "Livermore",
+      "state": "CA",
+      "zip": "94550"
+    },
+    "geolocation": { "latitude": 37.65778, "longitude": -121.73011 },
+    "details": {
+      "description": "Qui iusto maiores et consequatur occaecati quis. Iure error iusto recusandae aut. Sunt et non culpa assumenda aperiam commodi quis eligendi."
+    }
+  },
+  {
+    "business_name": "Graham - Wolff",
+    "type": "Technician",
+    "address": {
+      "street": "7928 Summit Street",
+      "city": "San Marcos",
+      "state": "CA",
+      "zip": "92069"
+    },
+    "geolocation": { "latitude": 33.144908, "longitude": -117.17128 },
+    "details": {
+      "description": "Ut accusamus unde ut necessitatibus fugit nisi voluptas ad neque. Ipsam iste aperiam culpa qui dolores unde. Doloribus nihil et qui necessitatibus soluta voluptas unde."
+    }
+  },
+  {
+    "business_name": "Kuhic, Langworth and Kilback",
+    "type": "Technician",
+    "address": {
+      "street": "139 ",
+      "city": "Poplar Lane Vacaville",
+      "state": "CA",
+      "zip": "95687"
+    },
+    "geolocation": { "latitude": 38.34401, "longitude": -121.95333 },
+    "details": {
+      "description": "Voluptates assumenda quia eius. Dolores quidem sed tenetur dignissimos et molestiae quo quia quasi. Et architecto suscipit sit quisquam deserunt. Libero voluptates et aliquam est officiis iusto aut ut sed. Voluptate suscipit quaerat eaque. Rem vel velit sapiente animi totam nam incidunt suscipit."
+    }
+  },
+  {
+    "business_name": "Ward, Kovacek and Harris",
+    "type": "Technician",
+    "address": {
+      "street": "70 Hudson Ave.",
+      "city": "Hawthorne",
+      "state": "CA",
+      "zip": "90250"
+    },
+    "geolocation": { "latitude": 33.914614, "longitude": -118.35092 },
+    "details": {
+      "description": "Sapiente reprehenderit alias velit tenetur nam explicabo. Earum nihil recusandae. Enim omnis assumenda ab quisquam sunt eveniet. Dolores et eos ut voluptatem itaque recusandae distinctio incidunt ab. Corporis delectus unde doloribus provident."
+    }
+  },
+  {
+    "business_name": "Hermann, Bogan and Spencer",
+    "type": "Technician",
+    "address": {
+      "street": "61 NW. State Drive",
+      "city": "La Habra",
+      "state": "CA",
+      "zip": "90631"
+    },
+    "geolocation": { "latitude": 33.934513, "longitude": -117.95159 },
+    "details": {
+      "description": "Non ut ut expedita et provident. Perspiciatis vero atque dolore voluptatem inventore. Nulla officia placeat exercitationem. Consequatur et ut optio qui. Aut voluptas quia qui repudiandae soluta. Sunt quos voluptatibus eos."
+    }
+  },
+  {
+    "business_name": "Donnelly Group",
+    "type": "Technician",
+    "address": {
+      "street": "44 Bank St.",
+      "city": "Milpitas",
+      "state": "CA",
+      "zip": "95035"
+    },
+    "geolocation": { "latitude": 37.436451, "longitude": -121.89438 },
+    "details": {
+      "description": "Error eos quis consequatur quo corrupti perspiciatis quo commodi unde. Architecto enim adipisci est odit ab et quis. Pariatur earum expedita qui sequi. Molestias earum aut harum porro magnam. Quas nulla exercitationem vitae aut ratione voluptatem non."
+    }
+  },
+  {
+    "business_name": "Spinka, Roberts and Spencer",
+    "type": "Technician",
+    "address": {
+      "street": "47 Mammoth Dr.",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92114"
+    },
+    "geolocation": { "latitude": 32.706954, "longitude": -117.0542 },
+    "details": {
+      "description": "Iusto qui perferendis voluptatem quod natus laborum omnis neque tenetur. Consequatur ut aliquid deleniti quaerat sed sint possimus. Hic rerum dolore aperiam nihil autem perspiciatis vero. Placeat tenetur iusto doloremque voluptates blanditiis quia nobis."
+    }
+  },
+  {
+    "business_name": "Hagenes, Gleichner and Denesik",
+    "type": "Technician",
+    "address": {
+      "street": "805 Oakwood Ave.",
+      "city": "Pico Rivera",
+      "state": "CA",
+      "zip": "90660"
+    },
+    "geolocation": { "latitude": 33.989013, "longitude": -118.08912 },
+    "details": {
+      "description": "Animi deserunt cum. Explicabo quia assumenda dolores expedita mollitia minima saepe. Soluta distinctio occaecati. Voluptate doloribus ab quidem dolore neque corrupti consequatur quas aperiam."
+    }
+  },
+  {
+    "business_name": "Maggio - Dibbert",
+    "type": "Technician",
+    "address": {
+      "street": "8489 Primrose Dr.",
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92404"
+    },
+    "geolocation": { "latitude": 34.14856, "longitude": -117.26298 },
+    "details": {
+      "description": "Deserunt ab praesentium officiis est tenetur. Consectetur tempore sed odit sed. Dolorem molestiae et id ut laudantium. Est voluptas sed ut architecto quo earum ea."
+    }
+  },
+  {
+    "business_name": "Yost, Thompson and Abernathy",
+    "type": "Technician",
+    "address": {
+      "street": "7334 South Griffin St.",
+      "city": "Anaheim",
+      "state": "CA",
+      "zip": "92804"
+    },
+    "geolocation": { "latitude": 33.818165, "longitude": -117.97304 },
+    "details": {
+      "description": "Magni dolorum et sed unde alias. Officiis quia facilis voluptate est error nam qui nemo. Consectetur vero qui omnis laborum. Odit quos quis totam voluptas. Saepe optio voluptatibus ipsa et ut omnis veniam et."
+    }
+  },
+  {
+    "business_name": "Hegmann and Sons",
+    "type": "Technician",
+    "address": {
+      "street": "201 Smith St.",
+      "city": "Indio",
+      "state": "CA",
+      "zip": "92201"
+    },
+    "geolocation": { "latitude": 33.715271, "longitude": -116.235 },
+    "details": {
+      "description": "Provident facilis iste iure ipsa iste ducimus. Quam ut et rerum. Quis eos non fuga omnis hic. Cupiditate eum minima corporis laborum qui. Aut ea dolorum nisi rem. Voluptatem et voluptas iure fuga veniam."
+    }
+  },
+  {
+    "business_name": "Howe and Sons",
+    "type": "Technician",
+    "address": {
+      "street": "29 Myrtle St.",
+      "city": "Wilmington",
+      "state": "CA",
+      "zip": "90744"
+    },
+    "geolocation": { "latitude": 33.784018, "longitude": -118.25897 },
+    "details": {
+      "description": "Voluptas veniam officia sit autem et asperiores dicta. Voluptatum atque nobis quaerat velit expedita voluptatem corrupti. Tempore ex atque repellendus rerum similique nobis aperiam. Quia nisi excepturi modi eos officiis. Quae id est eius commodi laudantium."
+    }
+  },
+  {
+    "business_name": "Crooks, McCullough and Price",
+    "type": "Technician",
+    "address": {
+      "street": "7 N. Front Street",
+      "city": "Compton",
+      "state": "CA",
+      "zip": "90221"
+    },
+    "geolocation": { "latitude": 33.893265, "longitude": -118.204 },
+    "details": {
+      "description": "Nesciunt facilis itaque quis iure accusantium asperiores et laudantium. Quo dolor et vitae quam explicabo aut id. Numquam fuga neque officia magni impedit consequatur maiores. Veniam aliquam est vero deserunt. Voluptas perferendis incidunt quis. Sit quos qui molestiae ad placeat rem corporis."
+    }
+  },
+  {
+    "business_name": "Turcotte, Walsh and Dooley",
+    "type": "Technician",
+    "address": {
+      "street": "67 SW. Laurel St.",
+      "city": "Panorama City",
+      "state": "CA",
+      "zip": "91402"
+    },
+    "geolocation": { "latitude": 34.223753, "longitude": -118.44322 },
+    "details": {
+      "description": "Corporis itaque doloremque dolorum unde quod laborum. Nesciunt reiciendis dolores qui labore praesentium. Cum quae aspernatur voluptas quam debitis quasi maxime. Doloribus nostrum est maxime."
+    }
+  },
+  {
+    "business_name": "Reichert - Schuppe",
+    "type": "Technician",
+    "address": {
+      "street": "830 Berkshire Street",
+      "city": "Pacoima",
+      "state": "CA",
+      "zip": "91331"
+    },
+    "geolocation": { "latitude": 34.254751, "longitude": -118.42406 },
+    "details": {
+      "description": "Cum nisi consequatur unde. Consequatur reprehenderit reprehenderit assumenda consectetur doloremque excepturi blanditiis. Cum molestiae est ipsam. Sequi minus aliquam. Qui ipsa rerum nesciunt labore blanditiis rerum quos debitis sit. Blanditiis in ea."
+    }
+  },
+  {
+    "business_name": "Reichel - Altenwerth",
+    "type": "Technician",
+    "address": {
+      "street": "93 Adams St.",
+      "city": "South Gate",
+      "state": "CA",
+      "zip": "90280"
+    },
+    "geolocation": { "latitude": 33.944264, "longitude": -118.1949 },
+    "details": {
+      "description": "Et aliquam voluptatem ea iusto labore consequatur distinctio velit dolorem. Nesciunt et et nulla sit et harum porro harum. Dolore qui magni repellat assumenda doloribus voluptatibus quo aperiam. Neque omnis tempore non fugiat labore tempore culpa nihil. Suscipit iste corrupti nam enim ullam vel. Nihil ut laboriosam ullam pariatur."
+    }
+  },
+  {
+    "business_name": "Kunde, Dickinson and Botsford",
+    "type": "Technician",
+    "address": {
+      "street": "379 Young Ave.",
+      "city": "Pittsburg",
+      "state": "CA",
+      "zip": "94565"
+    },
+    "geolocation": { "latitude": 38.017917, "longitude": -121.90502 },
+    "details": {
+      "description": "Officiis omnis velit maiores ex dolor vero incidunt et veritatis. Laboriosam est aperiam modi sit est. Est maxime perferendis cumque facere quia at dolores. Omnis assumenda quia voluptatem nulla veniam corporis quia. Est quo necessitatibus dolorem molestias deserunt laboriosam dolorem dolorem."
+    }
+  },
+  {
+    "business_name": "Price - McGlynn",
+    "type": "Technician",
+    "address": {
+      "street": "871 ",
+      "city": "Ann Rd. Los Angeles",
+      "state": "CA",
+      "zip": "90001"
+    },
+    "geolocation": { "latitude": 33.972914, "longitude": -118.24878 },
+    "details": {
+      "description": "Dolor accusantium eos quasi earum. Earum nisi id dignissimos ab dolore aut ut. Consequuntur dolorem consequuntur laboriosam non accusamus eaque. Aliquid quaerat id ea deleniti alias quia. Aliquid accusamus dolorem."
+    }
+  },
+  {
+    "business_name": "Feeney and Sons",
+    "type": "Technician",
+    "address": {
+      "street": "511C Hill Dr.",
+      "city": "Van Nuys",
+      "state": "CA",
+      "zip": "91405"
+    },
+    "geolocation": { "latitude": 34.199704, "longitude": -118.44724 },
+    "details": {
+      "description": "Magni quia culpa ipsum est fuga quaerat non. Qui incidunt pariatur molestias qui sed eum cupiditate accusantium molestiae. Non inventore molestiae quia voluptas facere ut velit. Expedita enim minus totam. Deleniti occaecati quibusdam et nobis voluptatum ea necessitatibus. Dolor omnis iste soluta."
+    }
+  },
+  {
+    "business_name": "Rohan - Abshire",
+    "type": "Technician",
+    "address": {
+      "street": "703 Walnutwood Street",
+      "city": "Tustin",
+      "state": "CA",
+      "zip": "92780"
+    },
+    "geolocation": { "latitude": 33.741651, "longitude": -117.82127 },
+    "details": {
+      "description": "Neque voluptatem mollitia ipsam aspernatur autem neque velit fugiat fuga. Pariatur eum laudantium accusamus dolorum ut nobis veritatis velit. Animi corrupti magnam nihil voluptatem eligendi. Excepturi cum qui blanditiis corrupti exercitationem porro minus voluptates nesciunt."
+    }
+  },
+  {
+    "business_name": "Fahey - Hyatt",
+    "type": "Technician",
+    "address": {
+      "street": "48 NE. High Drive",
+      "city": "Chula Vista",
+      "state": "CA",
+      "zip": "91911"
+    },
+    "geolocation": { "latitude": 32.608799, "longitude": -117.0607 },
+    "details": {
+      "description": "Ducimus similique occaecati aut vero sit autem aut placeat. A rem ut accusantium perferendis porro. Consequatur voluptas asperiores possimus pariatur ex mollitia."
+    }
+  },
+  {
+    "business_name": "Wisozk - Witting",
+    "type": "Technician",
+    "address": {
+      "street": "7280 West Oxford Court",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "zip": "94087"
+    },
+    "geolocation": { "latitude": 37.350091, "longitude": -122.03602 },
+    "details": {
+      "description": "Excepturi expedita fuga neque omnis voluptatibus. Corrupti et voluptas nostrum impedit. Placeat quasi adipisci et maxime voluptatem unde. Vel quam molestias unde rerum non. Delectus sed dolore enim et numquam fuga qui delectus fugiat."
+    }
+  },
+  {
+    "business_name": "Beatty - Robel",
+    "type": "Technician",
+    "address": {
+      "street": "8272 Augusta Street",
+      "city": "Salinas",
+      "state": "CA",
+      "zip": "93905"
+    },
+    "geolocation": { "latitude": 36.681161, "longitude": -121.61538 },
+    "details": {
+      "description": "Minus nesciunt tempore rerum tempore distinctio omnis aspernatur in. Eos autem velit similique non suscipit molestiae a. Similique qui et quasi voluptatum est deserunt omnis. Id totam ea similique alias et culpa. Officiis ut voluptatem numquam vel. Cum qui repellat."
+    }
+  },
+  {
+    "business_name": "Skiles Group",
+    "type": "Technician",
+    "address": {
+      "street": "7920 Miles St.",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92117"
+    },
+    "geolocation": { "latitude": 32.823865, "longitude": -117.19966 },
+    "details": {
+      "description": "Et et et ut dolor tempore. Occaecati provident et eos modi. Consectetur eos soluta minima distinctio consequatur fuga aut quisquam. Magnam ex aut molestiae."
+    }
+  },
+  {
+    "business_name": "Lind, Fritsch and Gulgowski",
+    "type": "Technician",
+    "address": {
+      "street": "7066 Overlook Drive",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93307"
+    },
+    "geolocation": { "latitude": 35.324767, "longitude": -118.96329 },
+    "details": {
+      "description": "Reprehenderit illum debitis. Beatae vel et facilis et ipsam et. Et cumque illo at nemo aut sed. Repellat ab fugit praesentium quam minus sint saepe. Quibusdam cum numquam."
+    }
+  },
+  {
+    "business_name": "Pollich Inc",
+    "type": "Technician",
+    "address": {
+      "street": "9801 Fairground Dr.",
+      "city": "Moreno Valley",
+      "state": "CA",
+      "zip": "92553"
+    },
+    "geolocation": { "latitude": 33.923243, "longitude": -117.24211 },
+    "details": {
+      "description": "Ipsam eum quas nulla eos autem dolorem magnam nisi repellat. Voluptates quisquam minus mollitia veniam. Illo sapiente non. Autem sint magni."
+    }
+  },
+  {
+    "business_name": "Schinner - Anderson",
+    "type": "Technician",
+    "address": {
+      "street": "49 Columbia St.",
+      "city": "Chino Hills",
+      "state": "CA",
+      "zip": "91709"
+    },
+    "geolocation": { "latitude": 33.975267, "longitude": -117.72305 },
+    "details": {
+      "description": "Nulla sit voluptas ullam. Porro ratione sint iusto in praesentium natus quia qui voluptatem. Ut libero libero sunt et quas animi et."
+    }
+  },
+  {
+    "business_name": "Kling LLC",
+    "type": "Technician",
+    "address": {
+      "street": "98 Forest St.",
+      "city": "Simi Valley",
+      "state": "CA",
+      "zip": "93065"
+    },
+    "geolocation": { "latitude": 34.265003, "longitude": -118.77177 },
+    "details": {
+      "description": "Fugiat nobis atque iusto ut nihil eius tempore quis qui. Laudantium voluptatem laborum ut dolores cupiditate tempora ut. Omnis mollitia libero consequatur delectus laudantium voluptates debitis sequi qui."
+    }
+  },
+  {
+    "business_name": "Feil Inc",
+    "type": "Technician",
+    "address": {
+      "street": "28 North Bowman Dr.",
+      "city": "Victorville",
+      "state": "CA",
+      "zip": "92392"
+    },
+    "geolocation": { "latitude": 34.489466, "longitude": -117.35321 },
+    "details": {
+      "description": "Dignissimos ut commodi et quo et at. Officia sed dicta atque culpa tenetur optio iusto voluptatem totam. Delectus sapiente quo modi officia minus. Consequatur provident nihil omnis eum recusandae. Expedita rem sequi."
+    }
+  },
+  {
+    "business_name": "Ward - Rolfson",
+    "type": "Technician",
+    "address": {
+      "street": "623 ",
+      "city": "S. Oak Rd. Riverside",
+      "state": "CA",
+      "zip": "92503"
+    },
+    "geolocation": { "latitude": 33.91355, "longitude": -117.46052 },
+    "details": {
+      "description": "Pariatur et ratione quia. Velit nisi tempore corrupti odit beatae eum aliquid molestias ullam. Exercitationem odio in quisquam ut voluptatum et illo."
+    }
+  },
+  {
+    "business_name": "Kunze and Sons",
+    "type": "Technician",
+    "address": {
+      "street": "52 King Drive",
+      "city": "Hanford",
+      "state": "CA",
+      "zip": "93230"
+    },
+    "geolocation": { "latitude": 36.327063, "longitude": -119.6451 },
+    "details": {
+      "description": "Error veniam dolores ut ut ut itaque. Ut totam optio vel eum. Sed molestiae sed quos."
+    }
+  },
+  {
+    "business_name": "Huels LLC",
+    "type": "Technician",
+    "address": {
+      "street": "493 Cleveland Drive",
+      "city": "Rancho Cucamonga",
+      "state": "CA",
+      "zip": "91730"
+    },
+    "geolocation": { "latitude": 34.104555, "longitude": -117.58734 },
+    "details": {
+      "description": "Ipsam cum in provident unde cumque recusandae sint explicabo eligendi. Aut sequi ducimus perspiciatis rerum provident et est dolor quibusdam. Aut tenetur enim quo doloremque sed perspiciatis beatae cum nemo. Vel facilis nesciunt temporibus velit ratione quisquam expedita reiciendis. Qui non fugiat et fugiat quia corporis assumenda. Iste eveniet in consequatur neque."
+    }
+  },
+  {
+    "business_name": "Jakubowski Inc",
+    "type": "Technician",
+    "address": {
+      "street": "8339 South Canal Ave.",
+      "city": "Azusa",
+      "state": "CA",
+      "zip": "91702"
+    },
+    "geolocation": { "latitude": 34.128907, "longitude": -117.90309 },
+    "details": {
+      "description": "Aut dolorem impedit voluptas commodi. Laborum consequuntur rerum qui placeat soluta nobis. Et architecto amet magni quam nihil. Eum non optio nesciunt totam esse est veritatis fugit. Ut facere vero error dolore delectus voluptas qui voluptas."
+    }
+  },
+  {
+    "business_name": "Conn Inc",
+    "type": "Technician",
+    "address": {
+      "street": "104 Smith Store Street",
+      "city": "Huntington Beach",
+      "state": "CA",
+      "zip": "92646"
+    },
+    "geolocation": { "latitude": 33.666269, "longitude": -117.9693 },
+    "details": {
+      "description": "Est quasi voluptas officiis expedita qui esse qui. Dolore illum libero atque quibusdam omnis eum magnam. Sunt sint iusto autem magni ipsa ipsum ad mollitia reiciendis. Alias sunt labore est quod sequi. Eos blanditiis aut ipsa et esse reiciendis et. Consequatur non alias numquam commodi sed omnis voluptas qui."
+    }
+  },
+  {
+    "business_name": "Fay - Luettgen",
+    "type": "Technician",
+    "address": {
+      "street": "182 Marlborough Street",
+      "city": "Ontario",
+      "state": "CA",
+      "zip": "91762"
+    },
+    "geolocation": { "latitude": 34.057561, "longitude": -117.66563 },
+    "details": {
+      "description": "Ipsam non eaque atque ut sit qui nemo. Laborum maxime cupiditate maxime voluptas possimus aut. Aspernatur cupiditate quia unde consequuntur autem. Vitae nemo culpa."
+    }
+  },
+  {
+    "business_name": "Maggio - Stanton",
+    "type": "Technician",
+    "address": {
+      "street": "7255 E. Indian Spring Avenue",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92154"
+    },
+    "geolocation": { "latitude": 32.574398, "longitude": -117.05633 },
+    "details": {
+      "description": "Voluptatem amet et sed. Sit iure atque. Necessitatibus eligendi nesciunt beatae sint consectetur. Rerum enim nesciunt qui fugiat aut provident."
+    }
+  },
+  {
+    "business_name": "Larkin - Lowe",
+    "type": "Technician",
+    "address": {
+      "street": "857 Bowman St.",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109"
+    },
+    "geolocation": { "latitude": 37.792778, "longitude": -122.42188 },
+    "details": {
+      "description": "Sed facere consectetur aut quod. Cum magnam eaque maxime minus sed incidunt dolorum sit aut. Maxime voluptatem ab vero aut qui enim est. Aliquid sint nihil et est."
+    }
+  },
+  {
+    "business_name": "Littel - Monahan",
+    "type": "Technician",
+    "address": {
+      "street": "74 W. Kirkland Ave.",
+      "city": "Fresno",
+      "state": "CA",
+      "zip": "93727"
+    },
+    "geolocation": { "latitude": 36.753177, "longitude": -119.69703 },
+    "details": {
+      "description": "Doloremque quia ut quod dolorem aut. A et ducimus et qui non nulla molestiae iure. Necessitatibus quam recusandae aliquid et et accusantium cum rerum. Quibusdam recusandae qui ut pariatur veritatis praesentium suscipit blanditiis quis."
+    }
+  },
+  {
+    "business_name": "Homenick - Bosco",
+    "type": "Technician",
+    "address": {
+      "street": "922 Saxon Ave.",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90034"
+    },
+    "geolocation": { "latitude": 34.03056, "longitude": -118.39804 },
+    "details": {
+      "description": "Qui quidem amet exercitationem voluptas corrupti recusandae. Minus sit assumenda. Animi magnam optio ea quasi. Consequatur perspiciatis sed esse aspernatur quia delectus earum. Excepturi temporibus aut fugiat dolore aut. Corrupti dignissimos perspiciatis cumque voluptatem accusamus fuga dolores qui ut."
+    }
+  },
+  {
+    "business_name": "Stokes, Sawayn and Lindgren",
+    "type": "Technician",
+    "address": {
+      "street": "8315 Sherman Ave.",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90003"
+    },
+    "geolocation": { "latitude": 33.962714, "longitude": -118.276 },
+    "details": {
+      "description": "Aspernatur dolor qui. Impedit nostrum ex placeat laboriosam ut aut repellendus. Recusandae sapiente voluptatum amet perspiciatis eius odit beatae. Fugiat ea dolore ut quia placeat adipisci id."
+    }
+  },
+  {
+    "business_name": "McKenzie LLC",
+    "type": "Technician",
+    "address": {
+      "street": "9558 Jockey Hollow Dr.",
+      "city": "Cerritos",
+      "state": "CA",
+      "zip": "90703"
+    },
+    "geolocation": { "latitude": 33.868314, "longitude": -118.06754 },
+    "details": {
+      "description": "Doloribus maxime velit et quia accusamus mollitia et necessitatibus quasi. Ipsum facere itaque at iste qui alias blanditiis aspernatur. Ea ducimus enim autem rem consectetur in vel. Alias omnis voluptatem ipsam aut aut molestiae totam voluptas."
+    }
+  },
+  {
+    "business_name": "Runolfsdottir and Sons",
+    "type": "Technician",
+    "address": {
+      "street": "7750 Oakland Court",
+      "city": "Rialto",
+      "state": "CA",
+      "zip": "92376"
+    },
+    "geolocation": { "latitude": 34.109511, "longitude": -117.37617 },
+    "details": {
+      "description": "Aut quia accusamus ea et odio est aperiam. Aut quasi vero voluptatem esse deserunt numquam enim qui. Vel accusantium ut repudiandae soluta minus dicta itaque consequatur."
+    }
+  },
+  {
+    "business_name": "Weissnat Group",
+    "type": "Technician",
+    "address": {
+      "street": "447 North Wood St.",
+      "city": "Union City",
+      "state": "CA",
+      "zip": "94587"
+    },
+    "geolocation": { "latitude": 37.592184, "longitude": -122.04577 },
+    "details": {
+      "description": "Modi quo blanditiis magnam aut non. Tempora ut ut minus illo et aliquid eaque delectus placeat. Neque error accusantium ut nam nobis quis sint. Id non possimus minima ducimus."
+    }
+  },
+  {
+    "business_name": "Wuckert - Sauer",
+    "type": "Technician",
+    "address": {
+      "street": "9468 Birch Hill St.",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90037"
+    },
+    "geolocation": { "latitude": 34.002063, "longitude": -118.28737 },
+    "details": {
+      "description": "Quibusdam non eveniet similique autem quia dolorem quia. Dicta est id. Rerum accusamus quod pariatur minima beatae rerum. Dolorem adipisci est nostrum consequuntur aut."
+    }
+  },
+  {
+    "business_name": "Moore, Effertz and Crona",
+    "type": "Technician",
+    "address": {
+      "street": "112 Henry Smith Ave.",
+      "city": "Porterville",
+      "state": "CA",
+      "zip": "93257"
+    },
+    "geolocation": { "latitude": 36.055121, "longitude": -119.01595 },
+    "details": {
+      "description": "Fuga non est totam quas quis iusto non. Enim qui iste neque accusamus quis odio vitae dolore. A qui sint sit consequuntur sit enim assumenda repellat. Et aliquam modi quaerat nulla. Nulla dolor est voluptatem molestias ab assumenda. Eos eveniet eligendi voluptate autem nemo."
+    }
+  },
+  {
+    "business_name": "Bode - Dickens",
+    "type": "Technician",
+    "address": {
+      "street": "32 Baker St.",
+      "city": "Riverside",
+      "state": "CA",
+      "zip": "92509"
+    },
+    "geolocation": { "latitude": 33.998751, "longitude": -117.44695 },
+    "details": {
+      "description": "Et et fuga dolor voluptatibus earum dicta. Repellendus repellendus dolorem quidem aliquid tempore autem voluptatem quae est. Blanditiis ullam totam earum explicabo ut. Voluptatibus quod modi praesentium repudiandae corporis nesciunt qui. Id totam expedita architecto ea. Dolores tenetur vel sunt quo sit sint."
+    }
+  },
+  {
+    "business_name": "Lubowitz LLC",
+    "type": "Technician",
+    "address": {
+      "street": "9843A Depot Court",
+      "city": "El Cajon",
+      "state": "CA",
+      "zip": "92020"
+    },
+    "geolocation": { "latitude": 32.7991, "longitude": -116.97334 },
+    "details": {
+      "description": "Ab natus placeat qui voluptatibus ullam unde. Voluptate accusantium ipsum et ut sint alias aspernatur. Nobis adipisci labore. Sint fuga et id velit consequatur."
+    }
+  },
+  {
+    "business_name": "Smitham Group",
+    "type": "Technician",
+    "address": {
+      "street": "35 New Dr.",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94122"
+    },
+    "geolocation": { "latitude": 37.75838, "longitude": -122.48478 },
+    "details": {
+      "description": "Eum sapiente explicabo qui animi nam iure cumque et quam. Debitis et inventore quam rem eum tempore cumque. Voluptas repellendus ea dolor voluptatem modi commodi. Vel illum officia. Et nulla velit non vel voluptatem."
+    }
+  },
+  {
+    "business_name": "Medhurst, Shields and Weber",
+    "type": "Technician",
+    "address": {
+      "street": "73 Argyle Drive",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93309"
+    },
+    "geolocation": { "latitude": 35.340759, "longitude": -119.06497 },
+    "details": {
+      "description": "Sequi mollitia dignissimos rem voluptates commodi repellat vero ipsa nihil. A voluptas voluptatem laborum in qui. Quia magni distinctio et ea sit. Quis sapiente a ullam voluptatem voluptas perferendis libero consequatur."
+    }
+  },
+  {
+    "business_name": "Mosciski, Rogahn and Leffler",
+    "type": "Technician",
+    "address": {
+      "street": "91 West 2nd Ave.",
+      "city": "Hayward",
+      "state": "CA",
+      "zip": "94544"
+    },
+    "geolocation": { "latitude": 37.633732, "longitude": -122.06101 },
+    "details": {
+      "description": "Facere commodi voluptatem pariatur. Optio laudantium labore voluptatibus doloremque inventore dolores possimus repellendus. Dolores eos quas. Qui voluptas voluptatem illo facilis qui omnis accusamus voluptate. Asperiores perspiciatis dignissimos exercitationem sunt eum quos est expedita aspernatur."
+    }
+  },
+  {
+    "business_name": "Ledner LLC",
+    "type": "Technician",
+    "address": {
+      "street": "9534 ",
+      "city": "North Manhattan Road Los Angeles",
+      "state": "CA",
+      "zip": "90006"
+    },
+    "geolocation": { "latitude": 34.048351, "longitude": -118.2943 },
+    "details": {
+      "description": "Iure placeat odit dignissimos autem porro. Porro sint hic ad aliquid dolorum sit autem nostrum. Molestias necessitatibus ipsum autem repudiandae ea eos hic blanditiis. Eos fugiat voluptatum at magnam molestiae qui. Aperiam saepe enim aperiam."
+    }
+  },
+  {
+    "business_name": "Luettgen, Daniel and Labadie",
+    "type": "Technician",
+    "address": {
+      "street": "8598 Manhattan Court",
+      "city": "Oceanside",
+      "state": "CA",
+      "zip": "92056"
+    },
+    "geolocation": { "latitude": 33.195354, "longitude": -117.28232 },
+    "details": {
+      "description": "Et maxime fuga. Et id assumenda magni labore aut. Vel praesentium delectus quia tempora. Est et et repudiandae beatae quae molestias et quas. Eveniet impedit qui et sit. Reprehenderit consequatur ratione odit quidem similique omnis."
+    }
+  },
+  {
+    "business_name": "Grant, Hauck and Lubowitz",
+    "type": "Technician",
+    "address": {
+      "street": "7 Penn Dr.",
+      "city": "Fontana",
+      "state": "CA",
+      "zip": "92336"
+    },
+    "geolocation": { "latitude": 34.125147, "longitude": -117.45818 },
+    "details": {
+      "description": "Exercitationem suscipit qui esse et. Voluptatem tempora consequatur cupiditate quia quis consequatur. Consequatur aliquam placeat aperiam neque cupiditate illo tempore."
+    }
+  },
+  {
+    "business_name": "Cummings Group",
+    "type": "Technician",
+    "address": {
+      "street": "217 ",
+      "city": "Hawthorne Rd. Anaheim",
+      "state": "CA",
+      "zip": "92805"
+    },
+    "geolocation": { "latitude": 33.835665, "longitude": -117.90807 },
+    "details": {
+      "description": "Tempore facere tempore quis sit dicta aut maxime. Earum rem mollitia hic ab in quae amet quis enim. Voluptas voluptatibus veritatis asperiores nam voluptatem vero quasi rerum. A incidunt voluptas perspiciatis aut ratione."
+    }
+  },
+  {
+    "business_name": "Schowalter Group",
+    "type": "Technician",
+    "address": {
+      "street": "30 North Sussex St.",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "zip": "94086"
+    },
+    "geolocation": { "latitude": 37.378341, "longitude": -122.02398 },
+    "details": {
+      "description": "Est explicabo illo nam et nesciunt et rerum doloremque omnis. Assumenda iste nulla labore. Voluptates alias modi perspiciatis quo magnam. Quibusdam est dicta. Ea dolores aut. Nihil quia velit."
+    }
+  }
+]
