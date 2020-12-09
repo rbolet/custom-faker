@@ -9,7 +9,6 @@ const location = {
     const address = this.getUniqueAddress();
     const { latitude, longitude } = this.geolocationDictionary[address.zip];
     const location = { address, geolocation: { latitude, longitude } };
-    console.log("🚀 ~ file: data.js ~ line 13 ~ getUniqueLocation ~ location", location);
 
     return location;
   },
@@ -25,7 +24,7 @@ const location = {
 };
 
 module.exports = () => {
-  const { address, geolocation } = getRandomLocation();
+  const { address, geolocation } = location.getUniqueLocation();
   return {
     business_name: faker.company.companyName(),
     type: "Technician",
