@@ -2,7 +2,7 @@ const fs = require("fs");
 const randomData = require("./cpros/data");
 
 let data = [];
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i < 10; i++) {
   data.push(randomData());
 }
 
